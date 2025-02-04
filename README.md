@@ -1,8 +1,4 @@
-# React + Vite
+Bienvenido a nuestro sistema de gestión para restaurantes. Esta plataforma está diseñada para optimizar la administración de pedidos, menús y clientes, ofreciendo una experiencia intuitiva y eficiente. Desarrollada con React y Vite, nuestra aplicación garantiza un rendimiento rápido y una interfaz moderna, facilitando la operación diaria del restaurante.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nuestro objetivo es mejorar la experiencia tanto para los clientes como para el personal, proporcionando herramientas digitales que agilizan la gestión y mejoran el servicio.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
